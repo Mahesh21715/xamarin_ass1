@@ -10,7 +10,7 @@
     <ContentPage.Content>
         <StackLayout Margin="10" Padding="5" VerticalOptions="Center" BackgroundColor="#B2BABB">
             <Entry x:Name = "Email" 
-                   Placeholder = "Email" 
+                   Placeholder = "User Email" 
                    PlaceholderColor="WhiteSmoke" 
                    TextColor="WhiteSmoke"
                    Text="{Binding Email}"  
