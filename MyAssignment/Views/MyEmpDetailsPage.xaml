@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyAssignment.Views.MyEmpDetailsPage"
+             Title="Employee Details Page">
+    <ContentPage.Content>
+        <StackLayout Margin="10" Padding="5">
+            
+            <Frame  CornerRadius="100" 
+                                    HeightRequest="100"
+                                    WidthRequest="100"
+                                    HorizontalOptions="Center"
+                                    Padding="0"
+                                    IsClippedToBounds="True">
+
+                <Image           x:Name="MyImageCall"
+                                 HorizontalOptions="FillAndExpand"
+                                 VerticalOptions="FillAndExpand"
+                                 Aspect="AspectFill"
+                                 />
+            </Frame>
+            <Label x:Name="EmpId" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpEmail" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpFirstName" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpLastName" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpType" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpAddress" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpManager" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpDepartment" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpContact" HorizontalTextAlignment="Center"/>
+            <Label x:Name="EmpGender" HorizontalOptions="Center"/>
+            
+            
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

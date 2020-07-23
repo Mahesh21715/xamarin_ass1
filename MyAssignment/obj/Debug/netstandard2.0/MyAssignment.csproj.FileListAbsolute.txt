@@ -1,0 +1,17 @@
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.csprojAssemblyReference.cache
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\bin\Debug\netstandard2.0\MyAssignment.deps.json
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\bin\Debug\netstandard2.0\MyAssignment.dll
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\bin\Debug\netstandard2.0\ref\MyAssignment.dll
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\bin\Debug\netstandard2.0\MyAssignment.pdb
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\Views\MyEmpDetailsPage.xaml.g.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\Views\MyEmplist.xaml.g.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.AssemblyInfoInputs.cache
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.AssemblyInfo.cs
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.csproj.CoreCompileInputs.cache
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.dll
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\ref\MyAssignment.dll
+D:\Xamarin_Practice\MyAssignment\MyAssignment\MyAssignment\obj\Debug\netstandard2.0\MyAssignment.pdb
